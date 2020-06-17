@@ -1,0 +1,7 @@
+*.py[co]
+/.idea/
+*.log
+*.DS_Store
+
+pyzk.egg-info/*
+vti_hr_attendance/data/dbAccount.json
